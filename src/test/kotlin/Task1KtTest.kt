@@ -15,7 +15,7 @@ class Task1KtTest {
             transactionMonth = transactionMonth,
             transaction = transaction
         )
-        assertEquals(250.00, result, 0.0001)
+        assertEquals(251.00, result, 0.0001)
     }
 
 }
